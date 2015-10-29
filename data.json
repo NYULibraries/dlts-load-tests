@@ -1,0 +1,402 @@
+[
+{
+   "isPartOf":"nyu_aco000053",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/nyu_aco000053/nyu_aco000053_afr01_d.jp2",
+      "timestamp":"1431839506",
+      "width":"2861",
+      "height":"3933",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/nyu_aco000053/nyu_aco000053_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000440",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000440/nyu_aco000440_afr01_d.jp2",
+      "timestamp":"1431551358",
+      "width":"2463",
+      "height":"3237",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000440/nyu_aco000440_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000177",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000177/nyu_aco000177_afr01_d.jp2",
+      "timestamp":"1397054333",
+      "width":"2989",
+      "height":"3973",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000177/nyu_aco000177_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000178",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000178/nyu_aco000178_afr01_d.jp2",
+      "timestamp":"1397055230",
+      "width":"2993",
+      "height":"3961",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000178/nyu_aco000178_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000179",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000179/nyu_aco000179_afr01_d.jp2",
+      "timestamp":"1397056275",
+      "width":"2943",
+      "height":"3946",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000179/nyu_aco000179_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000180",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000180/nyu_aco000180_afr01_d.jp2",
+      "timestamp":"1397057361",
+      "width":"2961",
+      "height":"3921",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000180/nyu_aco000180_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000181",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000181/nyu_aco000181_afr01_d.jp2",
+      "timestamp":"1397058237",
+      "width":"3045",
+      "height":"3960",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000181/nyu_aco000181_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000003",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000003/nyu_aco000003_afr01_d.jp2",
+      "timestamp":"1397060056",
+      "width":"2293",
+      "height":"3181",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000003/nyu_aco000003_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000026",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000026/nyu_aco000026_afr01_d.jp2",
+      "timestamp":"1409840142",
+      "width":"2809",
+      "height":"3897",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000026/nyu_aco000026_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000224",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000224/nyu_aco000224_afr01_d.jp2",
+      "timestamp":"1410164343",
+      "width":"2526",
+      "height":"3550",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000224/nyu_aco000224_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000381",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000381/nyu_aco000381_afr01_d.jp2",
+      "timestamp":"1410166894",
+      "width":"2729",
+      "height":"3909",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000381/nyu_aco000381_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000255",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000255/nyu_aco000255_afr01_d.jp2",
+      "timestamp":"1410168473",
+      "width":"2857",
+      "height":"4041",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000255/nyu_aco000255_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000282",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000282/nyu_aco000282_afr01_d.jp2",
+      "timestamp":"1410170452",
+      "width":"2909",
+      "height":"4077",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000282/nyu_aco000282_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000241",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000241/nyu_aco000241_afr01_d.jp2",
+      "timestamp":"1410171444",
+      "width":"3561",
+      "height":"4605",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000241/nyu_aco000241_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000382",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000382/nyu_aco000382_afr01_d.jp2",
+      "timestamp":"1410171974",
+      "width":"2413",
+      "height":"3553",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000382/nyu_aco000382_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000249",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000249/nyu_aco000249_afr01_d.jp2",
+      "timestamp":"1410172272",
+      "width":"2797",
+      "height":"3981",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000249/nyu_aco000249_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000378",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000378/nyu_aco000378_afr01_d.jp2",
+      "timestamp":"1410173362",
+      "width":"2173",
+      "height":"3193",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000378/nyu_aco000378_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000277",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000277/nyu_aco000277_afr01_d.jp2",
+      "timestamp":"1410174017",
+      "width":"2493",
+      "height":"3773",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000277/nyu_aco000277_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000250",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000250/nyu_aco000250_afr01_d.jp2",
+      "timestamp":"1410174762",
+      "width":"2790",
+      "height":"4056",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000250/nyu_aco000250_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+},
+{
+   "isPartOf":"nyu_aco000368",
+   "sequence":"1",
+   "realPageNumber":"1",
+   "cm":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000368/nyu_aco000368_afr01_d.jp2",
+      "timestamp":"1410175204",
+      "width":"2845",
+      "height":"3937",
+      "levels":"5",
+      "dwtLevels":"5",
+      "compositingLayerCount":"1"
+   },
+   "ri":{
+      "uri":"http://dev-dl-pa.home.nyu.edu/files/books/books/nyu_aco000368/nyu_aco000368_afr01_s.jpg"
+   },
+   "ocr":{
+      "uri":null
+   }
+}
+]
