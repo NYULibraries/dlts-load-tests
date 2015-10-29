@@ -1,0 +1,13 @@
+data/phase-1/*
+!data/phase-1/.save-this-empty-directory-in-repo
+data/phase-3/*
+!data/phase-3/.save-this-empty-directory-in-repo
+
+reports/phase-1/*
+!reports/phase-1/.save-this-empty-directory-in-repo
+reports/phase-3/*
+!reports/phase-3/.save-this-empty-directory-in-repo
+
+user-files/phase-1/acceptance-tests_users-and-passwords.csv
+user-files/phase-3/acceptance-tests_users-and-passwords.csv
+
