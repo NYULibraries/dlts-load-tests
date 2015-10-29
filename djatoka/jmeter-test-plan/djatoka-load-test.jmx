@@ -434,7 +434,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">${ROOT}/data/${DOMAIN}/book-browse.csv</stringProp>
+          <stringProp name="filename">${ROOT}/data/${DOMAIN}/book-browse_simple.csv</stringProp>
           <boolProp name="ResultCollector.success_only_logging">true</boolProp>
         </ResultCollector>
         <hashTree/>
@@ -534,7 +534,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename">${ROOT}/data/${DOMAIN}/book-browse.csv</stringProp>
+          <stringProp name="filename">${ROOT}/data/${DOMAIN}/book-browse_tree.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
