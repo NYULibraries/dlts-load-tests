@@ -15,7 +15,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="ROOT" elementType="Argument">
             <stringProp name="Argument.name">ROOT</stringProp>
-            <stringProp name="Argument.value">/tmp/dlts-load-tests/djatoka/jmeter-test-plan</stringProp>
+            <stringProp name="Argument.value">[Absolute path to the dlts-load-tests repo on your machine]/djatoka/jmeter-test-plan</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="DOMAIN" elementType="Argument">
