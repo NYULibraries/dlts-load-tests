@@ -20,7 +20,7 @@
           </elementProp>
           <elementProp name="DOMAIN" elementType="Argument">
             <stringProp name="Argument.name">DOMAIN</stringProp>
-            <stringProp name="Argument.value">stage-dl-pa.home.nyu.edu</stringProp>
+            <stringProp name="Argument.value">dev-dl-pa.home.nyu.edu</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
