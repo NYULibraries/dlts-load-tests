@@ -5,4 +5,7 @@ If you wish to place the repo somewhere else, change the ROOT user defined varia
 from (using ACO as an example) `/tmp/dlts-load-tests/aco/jmeter-test-plan` to
 `[Absolute path to root of dlts-load-tests repo]/aco/jmeter-test-plan`.
 
-`${ROOT}` is used to specify the paths to the data files and reports output by the test run.
+`${ROOT}` is used to specify the paths to the data files and reports output by the test run.  If the directories
+in these paths do not already exist, JMeter will create them when it first writes out to the files, so make
+sure `${ROOT}` is pointing to exactly where you want it.  It has been set to default to
+`/tmp/dlts-load-tests` for safety.
