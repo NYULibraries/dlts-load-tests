@@ -9,3 +9,5 @@ from (using ACO as an example) `/tmp/dlts-load-tests/aco/jmeter-test-plan` to
 in these paths do not already exist, JMeter will create them when it first writes out to the files, so make
 sure `${ROOT}` is pointing to exactly where you want it.  It has been set to default to
 `/tmp/dlts-load-tests` for safety.
+
+These test plans were developed in JMeter version 2.13, which can be downloaded from https://archive.apache.org/dist/jmeter/binaries/.
