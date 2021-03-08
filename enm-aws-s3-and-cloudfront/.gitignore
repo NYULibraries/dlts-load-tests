@@ -1,7 +1,0 @@
-data/
-jmeter.log
-reports/
-html-reports/*
-!html-reports/.commit-empty-directory
-logs/*
-!logs/.commit-empty-directory

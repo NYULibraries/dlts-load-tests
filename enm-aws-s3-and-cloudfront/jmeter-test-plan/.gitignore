@@ -1,10 +1,7 @@
-data/*
-!data/dev-dl-pa.home.nyu.edu/.save-this-empty-directory-in-repo
-!data/stage-dl-pa.home.nyu.edu/.save-this-empty-directory-in-repo
-!data/prod-dl-pa.home.nyu.edu/.save-this-empty-directory-in-repo
-
-reports/*
-!reports/dev-dl-pa.home.nyu.edu/.save-this-empty-directory-in-repo
-!reports/stage-dl-pa.home.nyu.edu/.save-this-empty-directory-in-repo
-!reports/dl-pa.home.nyu.edu/.save-this-empty-directory-in-repo
-
+data/
+jmeter.log
+reports/
+html-reports/*
+!html-reports/.commit-empty-directory
+logs/*
+!logs/.commit-empty-directory
